@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyHomework</string>
+    <string name="first_name">Введите фамилию</string>
+    <string name="press_btn">Нажми меня</string>
+    <string name="age">Введите возраст</string>
+    <string name="second_name">Введите фамилию</string>
+</resources>
